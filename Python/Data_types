@@ -16,3 +16,8 @@ Code to import the reserved keywords
 import keyword
 print(keyword.kwlist)
 
+Examples of the code
+a=10
+b= 20
+c= a**b
+print (c)
