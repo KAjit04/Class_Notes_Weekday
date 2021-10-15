@@ -1,0 +1,11 @@
+1.Fundamental data types - - Int, float, Bool, None, Strinh
+2. Derived Data types - List, tuples, set, dic
+Int - 10, -10, -20, 53
+Float 10.0, 20.5, -1.5
+String - '', "", """"""
+
+List - ()
+Tuples - []
+Set {}
+Dic - { abc : dictionary}
+
