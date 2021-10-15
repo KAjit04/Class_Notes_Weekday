@@ -1,4 +1,4 @@
-1.Fundamental data types - - Int, float, Bool, None, Strinh
+o1.Fundamental data types - - Int, float, Bool, None, Strinh
 2. Derived Data types - List, tuples, set, dic
 Int - 10, -10, -20, 53
 Float 10.0, 20.5, -1.5
@@ -8,4 +8,11 @@ List - ()
 Tuples - []
 Set {}
 Dic - { abc : dictionary}
+
+Operations
+Addition, substraction, multiplication, Division
+
+Code to import the reserved keywords
+import keyword
+print(keyword.kwlist)
 
